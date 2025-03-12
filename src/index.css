@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/global.css or your main CSS file */
+html, body {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  
+  
