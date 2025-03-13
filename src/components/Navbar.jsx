@@ -53,7 +53,7 @@ const Navbar = () => {
         } md:translate-x-0 z-50`}
       >
         <div className="text-center border-b border-gray-700 pb-6">
-          <h1 className="text-2xl font-bold tracking-tight">Muskan Loach</h1>
+          <h1 className="text-2xl font-bold tracking-tight">Muskan </h1>
           <p className="text-sm text-gray-400 mt-1">Web Developer</p>
         </div>
 
